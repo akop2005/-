@@ -31,6 +31,6 @@ img{
 select{
     width: 157.5px;
 }
-@media handheld {
+@media screen and (max-width:500px) {
     ul li {display: block;}
 }
